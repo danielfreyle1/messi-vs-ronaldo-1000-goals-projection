@@ -1,0 +1,49 @@
+{
+  "H": 0.75,
+  "gamma": 1.0,
+  "peso_etapa": {
+    "Inicios": 0.6,
+    "Prime": 1.0,
+    "Transición": 0.9
+  },
+  "coef_liga": {
+    "UCL": 1.1,
+    "Mundial": 1.05,
+    "Top liga europea": 1.0,
+    "Serie A": 0.95,
+    "Copa América / Euro": 0.95,
+    "Ligue 1": 0.9,
+    "Otros torneos UEFA/FIFA": 0.9,
+    "Copas domésticas Europa": 0.85,
+    "Eliminatorias": 0.85,
+    "Liga Portugal": 0.8,
+    "MLS": 0.7,
+    "Torneos Concacaf": 0.7,
+    "AFC Champions": 0.65,
+    "Copas Portugal": 0.65,
+    "Saudi Pro League": 0.62,
+    "Copas Arabia": 0.6,
+    "Amistosos": 0.6,
+    "Sin detalle": 0.8
+  },
+  "total": {
+    "Messi": 930,
+    "Ronaldo": 977
+  },
+  "corte": {
+    "Messi": "2026-09-20",
+    "Ronaldo": "2026-08-20"
+  },
+  "nacimiento": {
+    "Messi": "1987-06-24",
+    "Ronaldo": "1985-02-05"
+  },
+  "contrato": {
+    "Messi": "2028-12-31",
+    "Ronaldo": "2027-06-30"
+  },
+  "c_futuro": {
+    "Messi": 0.7375,
+    "Ronaldo": 0.6807
+  }
+}
